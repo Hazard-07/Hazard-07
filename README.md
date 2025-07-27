@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🚀 Kanishk Kumar S</h1>
+<h1> Kanishk Kumar S</h1>
 <h3>AI Explorer • Full Stack Developer • Systems Thinker</h3>
 
 <img src="https://img.shields.io/badge/Learn%20Build%20Repeat-%F0%9F%94%A5-purple?style=for-the-badge"/>
@@ -39,9 +39,9 @@ ML Stack:
   - TensorFlow, scikit-learn
   - OpenCV, HuggingFace
 ```
----
-💼 Current Missions
 
+💼 Current Missions
+---
 👨‍🎓 Student @ VIT Chennai
 
 🛠️ Intern @ Global Integra
@@ -49,8 +49,10 @@ Building a production-grade hotel room management app with real-time room tracki
 
 🧑‍💻 Former Intern @ Unwind Learning Labs
 Worked on ERP modules and analytics dashboards using modern web tools.
----
+
 
 
 🔗 Connect With Me
+---
 <div align="center"> <a href="https://www.linkedin.com/in/kanishk-kumar-s"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:kanishkkumarofficial@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /> </a> <a href="https://github.com/Hazard-07"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" /> </a> </div>
+---
