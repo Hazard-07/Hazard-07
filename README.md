@@ -39,7 +39,9 @@ ML Stack:
   - TensorFlow, scikit-learn
   - OpenCV, HuggingFace
 ```
+---
 💼 Current Missions
+
 👨‍🎓 Student @ VIT Chennai
 
 🛠️ Intern @ Global Integra
@@ -47,6 +49,7 @@ Building a production-grade hotel room management app with real-time room tracki
 
 🧑‍💻 Former Intern @ Unwind Learning Labs
 Worked on ERP modules and analytics dashboards using modern web tools.
+---
 
 
 🔗 Connect With Me
