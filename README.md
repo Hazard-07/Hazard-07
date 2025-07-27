@@ -54,5 +54,5 @@ Worked on ERP modules and analytics dashboards using modern web tools.
 
 🔗 Connect With Me
 ---
-<div align="center"> <a href="https://www.linkedin.com/in/kanishk-kumar-s"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:kanishkkumarofficial@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /> </a> <a href="https://github.com/Hazard-07"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" /> </a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/kanishk-kumar-s"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:kanishkkumar54@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /> </a> <a href="https://github.com/Hazard-07"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" /> </a> </div>
 ---
