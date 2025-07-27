@@ -38,3 +38,17 @@ Databases & Cloud:
 ML Stack:
   - TensorFlow, scikit-learn
   - OpenCV, HuggingFace
+
+
+
+Current Missions
+👨‍🎓 Student @ VIT Chennai
+
+🛠️ Intern @ Global Integra
+Building a production-grade hotel room management app with real-time room tracking, bookings, and staff-side controls.
+
+🧑‍💻 Former Intern @ Unwind Learning Labs
+Worked on ERP modules and analytics dashboards using modern web tools.
+
+My GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hazard-07&show_icons=true&theme=tokyonight" width="47%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazard-07&layout=compact&theme=tokyonight" width="35.6%"/> <img src="https://streak-stats.demolab.com/?user=Hazard-07&theme=tokyonight" width="47%"/> </div>
