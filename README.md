@@ -36,7 +36,7 @@ Databases & Cloud:
   - Supabase, Vercel, AWS
 
 ML Stack:
-  - TensorFlow, scikit-learn
+  - TensorFlow, scikit-learn, pytorch
   - OpenCV, HuggingFace
 ```
 
